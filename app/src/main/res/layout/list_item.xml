@@ -2,21 +2,22 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:padding="10dp">
+    android:padding="10dp"
+    android:layout_marginTop="90dp">
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="110dp"
         android:layout_height="110dp"
         android:layout_marginRight="10dp"
-        android:contentDescription="Image description"
+        android:contentDescription=""
         android:src="@drawable/punta_cana" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Punto turístico"
+        android:text="Puntos turístico"
         android:textSize="18sp"
         android:gravity="center_vertical" />
 
