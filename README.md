@@ -1,4 +1,4 @@
 # app5
-![Screenshot 2024-10-04 192137](https://github.com/user-attachments/assets/332a7ea8-b335-4033-b1b4-f31c6639fc6b)
+![image](https://github.com/user-attachments/assets/0e073618-7aab-4731-985f-fa45e8da6a0d)
 
 aplicacion movil desarrollada con java
